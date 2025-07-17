@@ -1,4 +1,29 @@
-# Hi there, I'm clpi 👋
+# 👋 Hi, I’m clpi
+
+- 🧑‍💻 **Software Engineer**
+- 🦀 Rust, 🦫 Go, 💻 C++, 🔷 TypeScript, 🐍 Python
+- 🚀 Creator of [zwr: A Zig WebAssembly Runtime](https://github.com/clpi/zwr)
+- ⚡ Fast learner, quick to adapt
+- 🛠️ Passionate about building better, more enjoyable dev environments
+- ✨ Fun & minimalist by design
+
+---
+
+## 🚩 Featured Project
+
+[![zwr](https://github.com/clpi/zwr/raw/main/.github/zwr-logo.png)](https://github.com/clpi/zwr)
+**[zwr](https://github.com/clpi/zwr)**  
+A minimalist WebAssembly runtime written in Zig – focused on speed, clarity, and being hacker-friendly.
+
+---
+
+## 🌱 Connect with me
+
+- 🐦 [twitter.com/clpif](https://twitter.com/clpif)
+
+---
+
+> “Make things better, then make them fun.”
 
 ### GitHub Stats
 ![clpi's GitHub stats](https://github-readme-stats.vercel.app/api?username=clpi&show_icons=true&theme=radical)
