@@ -11,8 +11,7 @@
 
 ## 🚩 Featured Project
 
-[![zwr](https://github.com/clpi/zwr/raw/main/.github/zwr-logo.png)](https://github.com/clpi/zwr)
-**[zwr](https://github.com/clpi/zwr)**  
+[![wx](https://github.com/clpi/wx/raw/main/.github/zwr-logo.png)](https://github.com/clpi/wx)
 A minimalist WebAssembly runtime written in Zig – focused on speed, clarity, and being hacker-friendly.
 
 ---
