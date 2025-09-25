@@ -2,7 +2,7 @@
 
 - 🧑‍💻 **Software Engineer**
 - 🦀 Rust, 🦫 Go, 💻 C++, 🔷 TypeScript, 🐍 Python
-- 🚀 Creator of [zwr: A Zig WebAssembly Runtime](https://github.com/clpi/zwr)
+- 🚀 Creator of [wx: A Zig WebAssembly Runtime](https://github.com/clpi/wx)
 - ⚡ Fast learner, quick to adapt
 - 🛠️ Passionate about building better, more enjoyable dev environments
 - ✨ Fun & minimalist by design
