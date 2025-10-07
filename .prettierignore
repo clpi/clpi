@@ -1,0 +1,19 @@
+# Dependencies
+node_modules
+
+# Build outputs
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# Vendor
+vendor
+
+# Git
+.git
+.gitignore
+
+# Lock files
+Gemfile.lock
+package-lock.json
