@@ -1,0 +1,13 @@
+{
+  "name": "clpi-profile",
+  "version": "1.0.0",
+  "description": "Profile README for clpi",
+  "private": true,
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
+  }
+}
