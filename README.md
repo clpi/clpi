@@ -2,7 +2,8 @@
 
 - 🧑‍💻 **Software Engineer**
 - 🦀 Rust, 🦫 Go, 💻 C++, 🔷 TypeScript, 🐍 Python
-- 🚀 Creator of [wx: A Zig WebAssembly Runtime](https://github.com/clpi/wx)
+- 🚀 Creator of [wart: A Zig WebAssembly Runtime](https://github.com/clpi/wart)
+- 🚀 Creator of [duo: The fastest Lua runtime](https://github.com/clpi/duo)
 - ⚡ Fast learner, quick to adapt
 - 🛠️ Passionate about building better, more enjoyable dev environments
 - ✨ Fun & minimalist by design
